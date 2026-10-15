@@ -36,6 +36,12 @@
             Console.WriteLine(m);
             Console.WriteLine();
             Console.WriteLine(12*85);
+            Console.WriteLine(12/85);
+            Console.WriteLine(12 % 85);
+            Console.WriteLine(125/100);
+            Console.WriteLine(12548%10);
+            Console.WriteLine(12548 % 100);
+            Console.WriteLine(12548 / 100);
         }
     }
 }
