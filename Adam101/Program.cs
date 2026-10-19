@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             //Console.WriteLine("Hello, World!");
             //Console.Write("Adam");
@@ -71,6 +71,9 @@
             Console.WriteLine(k);
 
             //عمليات حسابية متقدمة
+            double x = Math.Pow(10, 7);
+            double r = Math.Sqrt(10);
+            int p=Math.Abs(-10);
         }
     }
 }
