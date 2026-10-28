@@ -8,7 +8,7 @@ namespace Adam101
 {
     internal class Program2
     {
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             //عمليات حسابية متقدمة
             double x = Math.Pow(10, 7);
